@@ -1,3 +1,7 @@
+# Important ***
+
+# My work, along with the derivative contributions from other authors, is clearly documented here. Please refer to the references section.
+
 # Data_science_final_project
 final dessertaion University of Hertfordshire (23022047)
 
