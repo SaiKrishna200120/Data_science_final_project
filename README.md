@@ -18,4 +18,8 @@ Reference List:
 • Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. A., Kaiser, Ł., & Polosukhin, I. (2017). Title: Attention is All You Need. 
 • Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Title: ImageNet Classification with Deep Convolutional Neural Networks. 
 • Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby. Title: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
-Data Management Plan:
+
+## External Resources and Acknowledgements
+
+For a full list of external resources, code inspirations, and corresponding modifications, please see the [References](./References/References.md) folder.
+
