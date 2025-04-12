@@ -1,4 +1,4 @@
-MIT License
+MIT License (with third-party license references)
 
 Copyright (c) 2025 SaiKrishna200120
 
@@ -6,16 +6,33 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+copies of the Software created solely by the original author, and to permit
+persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Original Work by SaiKrishna200120:**
+   - All code authored solely by SaiKrishna200120 is released under the standard MIT License.
+   - These portions may be used freely for both non-commercial and commercial purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Third-Party and Derivative Code:**
+   - This repository includes derivative work based on open-source contributions by other authors.
+   - Portions of the Software are derived from or inspired by third-party projects that are subject to their own license terms.
+   - These portions may include **non-commercial restrictions** or other usage conditions set by the original authors.
+
+3. **License Clarity and Compliance:**
+   - Any file or function derived from third-party sources is clearly annotated in the code and referenced in the `References/README.md` file.
+   - Users of this repository are required to review the `References` file and comply with all applicable licenses of any included third-party or derivative components.
+   - Where a third-party license prohibits commercial use, the affected portions of this project are strictly **non-commercial** in accordance with the original license.
+
+4. **Disclaimer:**
+   - The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+   - In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
+
+5. **User Responsibility:**
+   - It is the responsibility of the end-user to ensure that any commercial or non-commercial use of this repository complies with the license terms of all referenced third-party contributions.
+
+---
+
+For detailed licensing of third-party content used in this project, please see:
+➡️ [`References/References.md`](./References/References.md)
+
+
