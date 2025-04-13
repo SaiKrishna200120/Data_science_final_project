@@ -41,6 +41,7 @@ How does the self-attention mechanism in Vision Transformers (ViT) influence per
 What are the advantages and limitations of Vision Transformers compared to traditional Convolutional Neural Networks (CNNs) and hybrid models?
 
 How do dataset size, training complexity, and computational requirements impact the performance of ViTs, CNNs, and hybrid models?
+
 ---
 
 ### Project Objectives
