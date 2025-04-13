@@ -35,6 +35,20 @@ This repository contains the code and documentation for my final dissertation pr
 
 Building a Vision Transformer (ViT) model and comparing its performance with other models such as ResNet and a hybrid model. The goal is to analyze how self-attention in ViTs impacts classification accuracy in comparison to traditional CNN-based approaches. The hybrid model explores the possibility of leveraging both global attention and local feature extraction.
 
+### 📌 Vision Transformer Architecture
+
+![Vision Transformer Architecture](https://viso.ai/wp-content/uploads/2021/09/vision-transformer-vit.png)
+
+*Source: [viso.ai](https://viso.ai/computer-vision/vision-transformer-vit/)*
+
+
+### 🧠 ResNet Architecture
+
+![ResNet Architecture](https://insightfultscript.com/collections/programming/neural-network/resnet/resnet-arch.webp)
+
+*Source: [InsightfulTscript](https://insightfultscript.com/)*
+
+
 ---
 
 ### Research Questions
