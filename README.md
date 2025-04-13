@@ -1,8 +1,10 @@
 # Enhancing Image Classification with Vision Transformers
 
 **Author:** Sai Krishna Vavilli (SaiKrishna200120)
+
 **University:** University of Hertfordshire 
-**Project ID:** 23022047
+
+**STUDENT ID:** 23022047
 ---
 # Work done
 
