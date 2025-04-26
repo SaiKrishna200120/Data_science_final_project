@@ -33,20 +33,18 @@ This repository contains the code and documentation for my final dissertation pr
 
 ### Project Summary
 
-Building a Vision Transformer (ViT) model and comparing its performance with other models such as ResNet and a hybrid model. The goal is to analyze how self-attention in ViTs impacts classification accuracy in comparison to traditional CNN-based approaches. The hybrid model explores the possibility of leveraging both global attention and local feature extraction.
+Building a Vision Transformer (ViT) model and comparing its performance with other models such as ResNet . The goal is to analyze how self-attention in ViTs impacts classification accuracy in comparison to traditional CNN-based approaches.
 
 ###  Vision Transformer Architecture
 
 ![Vision Transformer Architecture](https://viso.ai/wp-content/uploads/2021/09/vision-transformer-vit.png)
 
-*Source: [viso.ai](https://viso.ai/computer-vision/vision-transformer-vit/)*
 
 
 ###  ResNet Architecture
 
 ![ResNet Architecture](https://insightfultscript.com/collections/programming/neural-network/resnet/resnet-arch.webp)
 
-*Source: [InsightfulTscript](https://insightfultscript.com/)*
 
 
 ---
@@ -55,16 +53,16 @@ Building a Vision Transformer (ViT) model and comparing its performance with oth
 
 How does the self-attention mechanism in Vision Transformers (ViT) influence performance in image classification tasks?
 
-What are the advantages and limitations of Vision Transformers compared to traditional Convolutional Neural Networks (CNNs) and hybrid models?
+What are the advantages and limitations of Vision Transformers compared to traditional Convolutional Neural Networks (CNNs)models?
 
-How do dataset size, training complexity, and computational requirements impact the performance of ViTs, CNNs, and hybrid models?
+How do dataset size, training complexity, and computational requirements impact the performance of ViTs, CNNs models?
 
 ---
 
 ### Project Objectives
 
 1. **Model Analysis:** Understand the inherent differences between Vision Transformers and CNNs.
-2. **Performance Evaluation:** Benchmark ViT models on the CIFAR-10 dataset and compare their performance with ResNet and the hybrid model.
+2. **Performance Evaluation:** Benchmark ViT models on the CIFAR-10 dataset and compare their performance with ResNet .
 3. **Comparative Study:** Analyze each model's strengths and weaknesses in terms of accuracy, efficiency, and computational requirements.
 4. **Research Insight:** Develop comprehensive insights to help determine the most effective approach for different image classification scenarios.
 
