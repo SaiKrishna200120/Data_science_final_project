@@ -29,7 +29,7 @@
 
 ## Project Overview
 
-This repository contains the code and documentation for my final dissertation project at the University of Hertfordshire. The project investigates the use of Vision Transformers (ViT) for image classification using the CIFAR-10 dataset and compares their performance to traditional Convolutional Neural Networks (CNNs) such as ResNet, as well as a hybrid model that combines elements of both approaches.
+This repository contains the code and documentation for my final dissertation project at the University of Hertfordshire. The project investigates the use of Vision Transformers (ViT) for image classification using the CIFAR-10 dataset and compares their performance to traditional Convolutional Neural Networks (CNNs) such as ResNet.
 
 ### Project Summary
 
